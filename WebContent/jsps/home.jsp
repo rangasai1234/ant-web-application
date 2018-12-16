@@ -19,7 +19,7 @@
 	<span style="font-weight: bold;">
 		Mithun Technologies, 
 		Martha Halli,Opp To Madhurai Iddly House,
-		Bangalore, Karnataka, India.
+		Bangalore, Karnataka, India,pin no 560068.
 		+91-9980923226
 	</span>
 </div>
